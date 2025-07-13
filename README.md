@@ -32,11 +32,6 @@ Mimicking real-world UI using basic web technologies
 This is a basic calculator web application built using HTML, inline CSS, and JavaScript. 
 It performs simple arithmetic operations such as addition, subtraction, multiplication, and division.
 
-📁 Project Structure
-HTML: Builds the structure and layout of the calculator.
-CSS: Inline styling for background, fonts, buttons, and layout.
-JavaScript: Handles user interaction and performs calculations.
-
 🔑 Key Learnings:
 
 HTML form structure
